@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:akjones/chicanery.git
-  revision: f496f9b38f2ee1b3b7f690c3cb7678d939aeda5e
+  revision: e0bd792afd445e1ec5650c7f3578229c6812a3e8
   specs:
     chicanery (0.1.5)
       nokogiri (~> 1)
