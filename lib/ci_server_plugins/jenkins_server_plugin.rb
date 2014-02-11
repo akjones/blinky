@@ -1,5 +1,5 @@
-require 'chicanery/jenkins'
 require 'chicanery'
+require 'chicanery/jenkins'
 
 module Blinky
   module JenkinsServer

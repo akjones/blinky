@@ -1,5 +1,6 @@
 $:.unshift(File.dirname(__FILE__))
 
+require 'bundler/setup'
 require 'libusb/compat'
 require 'blinky/no_supported_devices_found'
 require 'blinky/light'
